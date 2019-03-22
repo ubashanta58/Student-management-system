@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551762148 source:e:\2019,4th semester\project practice\doublylinkedlist\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+
